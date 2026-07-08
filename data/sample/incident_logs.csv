@@ -1,0 +1,52 @@
+timestamp,zone_id,incident_type,severity,action_taken
+2026-06-21 02:28:14.664903,Zone-A,PPE violation,High,Supervisor informed
+2026-06-21 04:53:14.664903,Furnace Area,Restricted entry,Critical,Machine inspected
+2026-06-22 20:33:14.664903,Furnace Area,Machine warning,High,Supervisor informed
+2026-06-23 13:53:14.664903,Furnace Area,Restricted entry,Critical,Area checked
+2026-06-24 06:53:14.664903,Chemical Storage,Restricted entry,High,Supervisor informed
+2026-06-24 09:38:14.664903,Zone-A,Gas alert,High,Area checked
+2026-06-24 23:18:14.664903,Furnace Area,Machine warning,High,Supervisor informed
+2026-06-25 02:08:14.664903,Furnace Area,Machine warning,High,Supervisor informed
+2026-06-25 03:33:14.664903,Furnace Area,Machine warning,Critical,Supervisor informed
+2026-06-25 15:08:14.664903,Zone-A,Machine warning,High,Supervisor informed
+2026-06-25 17:48:14.664903,Furnace Area,Machine warning,Critical,Supervisor informed
+2026-06-26 07:23:14.664903,Furnace Area,PPE violation,High,Machine inspected
+2026-06-26 14:53:14.664903,Furnace Area,PPE violation,High,Worker moved
+2026-06-26 22:28:14.664903,Zone-A,PPE violation,High,Worker moved
+2026-06-27 13:48:14.664903,Zone-C,Gas alert,High,Machine inspected
+2026-06-27 13:58:14.664903,Chemical Storage,PPE violation,Critical,Area checked
+2026-06-27 15:38:14.664903,Furnace Area,Machine warning,High,Machine inspected
+2026-06-27 21:33:14.664903,Chemical Storage,PPE violation,High,Supervisor informed
+2026-06-28 03:58:14.664903,Furnace Area,Machine warning,High,Machine inspected
+2026-06-28 09:08:14.664903,Chemical Storage,Gas alert,High,Machine inspected
+2026-06-28 09:38:14.664903,Zone-B,PPE violation,Critical,Area checked
+2026-06-28 14:23:14.664903,Chemical Storage,Machine warning,Critical,Supervisor informed
+2026-06-29 12:53:14.664903,Zone-A,Gas alert,High,Worker moved
+2026-06-29 18:53:14.664903,Furnace Area,PPE violation,Critical,Area checked
+2026-06-30 03:38:14.664903,Chemical Storage,Gas alert,High,Worker moved
+2026-06-30 21:48:14.664903,Furnace Area,Gas alert,High,Area checked
+2026-07-01 12:43:14.664903,Furnace Area,Machine warning,High,Machine inspected
+2026-07-01 20:33:14.664903,Chemical Storage,PPE violation,High,Machine inspected
+2026-07-01 22:28:14.664903,Furnace Area,Machine warning,Critical,Area checked
+2026-07-02 07:28:14.664903,Zone-C,Machine warning,High,Area checked
+2026-07-02 09:13:14.664903,Chemical Storage,Restricted entry,Critical,Machine inspected
+2026-07-02 15:28:14.664903,Furnace Area,Gas alert,Critical,Area checked
+2026-07-02 19:28:14.664903,Furnace Area,Gas alert,High,Supervisor informed
+2026-07-03 06:18:14.664903,Furnace Area,Restricted entry,Critical,Machine inspected
+2026-07-03 11:38:14.664903,Furnace Area,Gas alert,High,Supervisor informed
+2026-07-04 00:58:14.664903,Furnace Area,Gas alert,Critical,Machine inspected
+2026-07-04 07:48:14.664903,Chemical Storage,Machine warning,High,Machine inspected
+2026-07-05 03:43:14.664903,Chemical Storage,Machine warning,High,Supervisor informed
+2026-07-05 12:23:14.664903,Furnace Area,Restricted entry,High,Supervisor informed
+2026-07-05 15:53:14.664903,Furnace Area,Restricted entry,High,Supervisor informed
+2026-07-05 22:03:14.664903,Chemical Storage,Machine warning,High,Machine inspected
+2026-07-05 23:08:14.664903,Chemical Storage,Restricted entry,High,Supervisor informed
+2026-07-06 03:33:14.664903,Furnace Area,Restricted entry,Critical,Machine inspected
+2026-07-06 09:48:14.664903,Furnace Area,Restricted entry,High,Supervisor informed
+2026-07-06 11:23:14.664903,Furnace Area,Restricted entry,High,Machine inspected
+2026-07-06 12:03:14.664903,Chemical Storage,PPE violation,High,Machine inspected
+2026-07-06 12:08:14.664903,Furnace Area,Machine warning,High,Supervisor informed
+2026-07-06 22:33:14.664903,Furnace Area,Restricted entry,Critical,Area checked
+2026-07-07 02:58:14.664903,Furnace Area,Restricted entry,Critical,Machine inspected
+2026-07-07 08:58:14.664903,Zone-B,PPE violation,Critical,Area checked
+2026-07-08 04:28:14.664903,Furnace Area,PPE violation,High,Worker moved

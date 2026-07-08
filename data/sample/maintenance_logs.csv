@@ -1,0 +1,19 @@
+machine_id,zone_id,last_maintenance_date,next_due_date,fault_history_count,maintenance_status
+M-101,Zone-A,2026-06-27,2026-08-07,3,OK
+M-102,Zone-A,2026-06-20,2026-09-04,8,OK
+M-103,Zone-A,2026-06-23,2026-07-25,0,OK
+M-201,Zone-B,2026-04-05,2026-06-20,0,Overdue
+M-202,Zone-B,2026-05-24,2026-07-17,6,Due Soon
+M-203,Zone-B,2026-06-14,2026-08-09,0,OK
+M-301,Zone-C,2026-06-18,2026-08-13,4,OK
+M-302,Zone-C,2026-06-19,2026-07-14,1,Due Soon
+M-303,Zone-C,2026-06-23,2026-08-14,5,OK
+M-401,Furnace Area,2026-06-26,2026-08-26,1,OK
+M-402,Furnace Area,2026-06-04,2026-07-13,5,Due Soon
+M-403,Furnace Area,2026-05-23,2026-07-10,0,Due Soon
+M-501,Chemical Storage,2026-05-10,2026-07-28,3,OK
+M-502,Chemical Storage,2026-06-22,2026-08-21,5,OK
+M-503,Chemical Storage,2026-06-18,2026-08-05,4,OK
+M-601,Assembly Point,2026-05-16,2026-08-30,2,OK
+M-602,Assembly Point,2026-05-25,2026-08-02,7,OK
+M-603,Assembly Point,2026-06-04,2026-09-01,8,OK

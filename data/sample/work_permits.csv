@@ -1,0 +1,61 @@
+permit_id,worker_id,zone_id,allowed_task,valid_from,valid_to,permit_status
+P-W001-Zone-B,W001,Zone-B,Packing line check,2026-06-17 08:43:14.657471,2026-07-15 08:43:14.657471,Valid
+P-W001-Zone-C,W001,Zone-C,Electrical inspection,2026-06-19 08:43:14.657471,2026-07-14 08:43:14.657471,Valid
+P-W001-Zone-A,W001,Zone-A,Welding inspection,2026-06-15 08:43:14.657471,2026-07-15 08:43:14.657471,Valid
+P-W001-FurnaceArea,W001,Furnace Area,Heat treatment support,2026-06-15 08:43:14.657471,2026-07-11 08:43:14.657471,Valid
+P-W001-ChemicalStorage,W001,Chemical Storage,Chemical inventory check,2026-06-19 08:43:14.657471,2026-07-13 08:43:14.657471,Valid
+P-W002-FurnaceArea,W002,Furnace Area,Heat treatment support,2026-06-20 08:43:14.657471,2026-07-16 08:43:14.657471,Suspended
+P-W002-ChemicalStorage,W002,Chemical Storage,Chemical inventory check,2026-06-21 08:43:14.657471,2026-07-11 08:43:14.657471,Valid
+P-W002-AssemblyPoint,W002,Assembly Point,Safety briefing,2026-06-16 08:43:14.657471,2026-07-10 08:43:14.657471,Valid
+P-W002-Zone-B,W002,Zone-B,Packing line check,2026-06-15 08:43:14.657471,2026-07-13 08:43:14.657471,Valid
+P-W002-Zone-A,W002,Zone-A,Welding inspection,2026-06-22 08:43:14.657471,2026-07-10 08:43:14.657471,Valid
+P-W003-ChemicalStorage,W003,Chemical Storage,Chemical inventory check,2026-06-16 08:43:14.657471,2026-07-11 08:43:14.657471,Valid
+P-W003-Zone-C,W003,Zone-C,Electrical inspection,2026-06-18 08:43:14.657471,2026-07-11 08:43:14.657471,Valid
+P-W003-AssemblyPoint,W003,Assembly Point,Safety briefing,2026-06-21 08:43:14.657471,2026-07-13 08:43:14.657471,Valid
+P-W003-Zone-A,W003,Zone-A,Welding inspection,2026-06-14 08:43:14.657471,2026-07-12 08:43:14.657471,Valid
+P-W003-Zone-B,W003,Zone-B,Packing line check,2026-06-20 08:43:14.657471,2026-07-09 08:43:14.657471,Valid
+P-W004-FurnaceArea,W004,Furnace Area,Heat treatment support,2026-06-19 08:43:14.657471,2026-07-09 08:43:14.657471,Valid
+P-W004-Zone-A,W004,Zone-A,Welding inspection,2026-06-21 08:43:14.657471,2026-07-10 08:43:14.657471,Valid
+P-W004-ChemicalStorage,W004,Chemical Storage,Chemical inventory check,2026-06-21 08:43:14.657471,2026-07-11 08:43:14.657471,Valid
+P-W004-Zone-B,W004,Zone-B,Packing line check,2026-06-15 08:43:14.657471,2026-07-11 08:43:14.657471,Valid
+P-W004-Zone-C,W004,Zone-C,Electrical inspection,2026-06-16 08:43:14.657471,2026-07-12 08:43:14.657471,Valid
+P-W005-AssemblyPoint,W005,Assembly Point,Safety briefing,2026-06-15 08:43:14.657471,2026-07-16 08:43:14.657471,Valid
+P-W005-Zone-B,W005,Zone-B,Packing line check,2026-06-19 08:43:14.657471,2026-07-10 08:43:14.657471,Valid
+P-W005-Zone-C,W005,Zone-C,Electrical inspection,2026-06-14 08:43:14.657471,2026-07-12 08:43:14.657471,Valid
+P-W005-ChemicalStorage,W005,Chemical Storage,Chemical inventory check,2026-06-22 08:43:14.657471,2026-07-10 08:43:14.657471,Valid
+P-W005-FurnaceArea,W005,Furnace Area,Heat treatment support,2026-06-22 08:43:14.657471,2026-07-12 08:43:14.657471,Suspended
+P-W006-Zone-C,W006,Zone-C,Electrical inspection,2026-06-19 08:43:14.657471,2026-07-11 08:43:14.657471,Valid
+P-W006-Zone-A,W006,Zone-A,Welding inspection,2026-06-15 08:43:14.657471,2026-07-12 08:43:14.657471,Valid
+P-W006-Zone-B,W006,Zone-B,Packing line check,2026-06-16 08:43:14.657471,2026-07-12 08:43:14.657471,Expired
+P-W006-FurnaceArea,W006,Furnace Area,Heat treatment support,2026-06-17 08:43:14.657471,2026-07-15 08:43:14.657471,Valid
+P-W006-AssemblyPoint,W006,Assembly Point,Safety briefing,2026-06-22 08:43:14.657471,2026-07-10 08:43:14.657471,Expired
+P-W007-Zone-A,W007,Zone-A,Welding inspection,2026-06-20 08:43:14.657471,2026-07-15 08:43:14.657471,Valid
+P-W007-Zone-B,W007,Zone-B,Packing line check,2026-06-15 08:43:14.657471,2026-07-12 08:43:14.657471,Valid
+P-W007-ChemicalStorage,W007,Chemical Storage,Chemical inventory check,2026-06-21 08:43:14.657471,2026-07-16 08:43:14.657471,Valid
+P-W007-AssemblyPoint,W007,Assembly Point,Safety briefing,2026-06-14 08:43:14.657471,2026-07-10 08:43:14.657471,Suspended
+P-W007-FurnaceArea,W007,Furnace Area,Heat treatment support,2026-06-21 08:43:14.657471,2026-07-12 08:43:14.657471,Valid
+P-W008-FurnaceArea,W008,Furnace Area,Heat treatment support,2026-06-20 08:43:14.657471,2026-07-15 08:43:14.657471,Expired
+P-W008-AssemblyPoint,W008,Assembly Point,Safety briefing,2026-06-18 08:43:14.657471,2026-07-16 08:43:14.657471,Valid
+P-W008-Zone-B,W008,Zone-B,Packing line check,2026-06-14 08:43:14.657471,2026-07-16 08:43:14.657471,Valid
+P-W008-ChemicalStorage,W008,Chemical Storage,Chemical inventory check,2026-06-18 08:43:14.657471,2026-07-12 08:43:14.657471,Valid
+P-W008-Zone-A,W008,Zone-A,Welding inspection,2026-06-14 08:43:14.657471,2026-07-09 08:43:14.657471,Valid
+P-W009-Zone-A,W009,Zone-A,Welding inspection,2026-06-22 08:43:14.657471,2026-07-10 08:43:14.657471,Valid
+P-W009-AssemblyPoint,W009,Assembly Point,Safety briefing,2026-06-21 08:43:14.657471,2026-07-10 08:43:14.657471,Valid
+P-W009-FurnaceArea,W009,Furnace Area,Heat treatment support,2026-06-19 08:43:14.657471,2026-07-15 08:43:14.657471,Suspended
+P-W009-Zone-C,W009,Zone-C,Electrical inspection,2026-06-22 08:43:14.657471,2026-07-10 08:43:14.657471,Valid
+P-W009-ChemicalStorage,W009,Chemical Storage,Chemical inventory check,2026-06-14 08:43:14.657471,2026-07-14 08:43:14.657471,Valid
+P-W010-Zone-B,W010,Zone-B,Packing line check,2026-06-20 08:43:14.657471,2026-07-13 08:43:14.657471,Valid
+P-W010-Zone-C,W010,Zone-C,Electrical inspection,2026-06-21 08:43:14.657471,2026-07-09 08:43:14.657471,Valid
+P-W010-AssemblyPoint,W010,Assembly Point,Safety briefing,2026-06-21 08:43:14.657471,2026-07-10 08:43:14.657471,Valid
+P-W010-FurnaceArea,W010,Furnace Area,Heat treatment support,2026-06-14 08:43:14.657471,2026-07-13 08:43:14.657471,Valid
+P-W010-ChemicalStorage,W010,Chemical Storage,Chemical inventory check,2026-06-17 08:43:14.657471,2026-07-10 08:43:14.657471,Valid
+P-W011-Zone-C,W011,Zone-C,Electrical inspection,2026-06-14 08:43:14.657471,2026-07-09 08:43:14.657471,Valid
+P-W011-AssemblyPoint,W011,Assembly Point,Safety briefing,2026-06-14 08:43:14.657471,2026-07-13 08:43:14.657471,Valid
+P-W011-Zone-B,W011,Zone-B,Packing line check,2026-06-21 08:43:14.657471,2026-07-11 08:43:14.657471,Valid
+P-W011-FurnaceArea,W011,Furnace Area,Heat treatment support,2026-06-21 08:43:14.657471,2026-07-11 08:43:14.657471,Valid
+P-W011-ChemicalStorage,W011,Chemical Storage,Chemical inventory check,2026-06-19 08:43:14.657471,2026-07-14 08:43:14.657471,Valid
+P-W012-AssemblyPoint,W012,Assembly Point,Safety briefing,2026-06-21 08:43:14.657471,2026-07-15 08:43:14.657471,Valid
+P-W012-Zone-C,W012,Zone-C,Electrical inspection,2026-06-22 08:43:14.657471,2026-07-09 08:43:14.657471,Valid
+P-W012-FurnaceArea,W012,Furnace Area,Heat treatment support,2026-06-20 08:43:14.657471,2026-07-13 08:43:14.657471,Valid
+P-W012-Zone-B,W012,Zone-B,Packing line check,2026-06-15 08:43:14.657471,2026-07-15 08:43:14.657471,Valid
+P-W012-Zone-A,W012,Zone-A,Welding inspection,2026-06-21 08:43:14.657471,2026-07-10 08:43:14.657471,Valid
