@@ -4,6 +4,11 @@ This is a hackathon prototype built to show how AI can help safety officers dete
 
 This project was developed as a prototype to demonstrate how AI can combine sensor data, worker location, maintenance records, and safety rules to predict industrial risks before accidents happen.
 
+## Project Links
+
+- Vercel Demo: [https://industrial-safety-ai.vercel.app](https://industrial-safety-ai.vercel.app)
+- GitHub Repository: [https://github.com/iakash2701/zero-harm-ai-safety-system](https://github.com/iakash2701/zero-harm-ai-safety-system)
+
 ## Problem Statement
 
 In many industries, safety systems work separately. IoT sensors, gas detectors, worker attendance, work permits, CCTV, SCADA, and maintenance logs may all generate alerts, but they are not always connected. Because of this, a safety officer may miss compound risks like high gas level plus worker entry plus invalid permit.
